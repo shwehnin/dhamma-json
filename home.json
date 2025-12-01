@@ -1,0 +1,65 @@
+{
+  "status": true,
+  "message": "Posts",
+  "data": [
+    {
+      "id": 1,
+      "name": "နတ်ပင့်၊ နတ်ပို့ ဂါထာ",
+      "image": "buddha"
+    },{
+      "id": 2,
+      "name": "ပရိတ်နိဒါန်း",
+      "image": "buddha_arimit"
+    },
+    {
+      "id": 3,
+      "name": "ပဌာန်းအကျဉ်း",
+      "image": "dahma"
+    },
+    {
+      "id": 4,
+      "name": "ပဌာန်းအကျယ်",
+      "image": "dhama"
+    },
+    {
+      "id": 5,
+      "name": "ဂုဏ်တော်များ",
+      "image": "phaya"
+    },
+    {
+      "id": 6,
+      "name": "ဂုဏ်တော်ကွန်ချာ",
+      "image": "buddha_two"
+    },
+    {
+      "id": 7,
+      "name": "ဘုရားရှိခိုး",
+      "image": "buddha_three"
+    },
+    {
+      "id": 8,
+      "name": "မဟာသမယသုတ်",
+      "image": "buddha_four"
+    },
+    {
+      "id": 9,
+      "name": "မေတ္တာပို့",
+      "image": "five"
+    },
+    {
+      "id": 10,
+      "name": "အမျှဝေ",
+      "image": "six"
+    },
+    {
+      "id": 11,
+      "name": "နေ့အလိုက်ပရိတ်ရွတ်ပုံ",
+      "image": "seven"
+    },
+    {
+      "id": 12,
+      "name": "သီလခံယူပုံ",
+      "image": "nine"
+    }
+  ]
+}
