@@ -1,0 +1,29 @@
+{
+  "status": true,
+  "message": "Books",
+  "data": [
+    {
+      "id": 1,
+      "title": "နတ်ပင့်၊ နတ်ပို့ ဂါထာ",
+      "cover": "buddha",
+      "url": "https://fileapi.thitsarparami.org/storage/ebook/cl1b0zpxu11x6t0v7co880i4x/cl1b0zpxx11xot0v79wtf55ma.pdf"
+    },{
+      "id": 2,
+      "title": "ပရိတ်နိဒါန်း",
+      "cover": "buddha_arimit",
+      "url": "https://fileapi.thitsarparami.org/storage/ebook/cl1b0zpxu11x6t0v7co880i4x/cl1b0zpxx11xnt0v754kyfqfu.pdf"
+    },
+    {
+      "id": 3,
+      "title": "ပဌာန်းအကျဉ်း",
+      "cover": "dahma",
+      "url": "https://fileapi.thitsarparami.org/storage/ebook/cl1b0zpxu11x6t0v7co880i4x/cl1b0zpxx11xmt0v72wvhe18j.pdf"
+    },
+    {
+      "id": 4,
+      "title": "ပဌာန်းအကျယ်",
+      "cover": "dhama",
+      "url": "https://fileapi.thitsarparami.org/storage/ebook/cl1b0zpxu11x6t0v7co880i4x/cl1b0zpxw11xlt0v74ywagcw1.pdf"
+    }
+  ]
+}
