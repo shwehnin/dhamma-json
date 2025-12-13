@@ -4,47 +4,58 @@
   "data": [
     {
       "id": 1,
-      "name": "မင်္ဂလသုတ်"
+      "name": "မင်္ဂလသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/humility_11747608.png"
     },
     {
       "id": 2,
-      "name": "ရတနသုတ်"
+      "name": "ရတနသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/lotus_app_icon.png"
     },
     {
       "id": 3,
-      "name": "မေတ္တသုတ်"
+      "name": "မေတ္တသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/lotus_flower1.png"
     },
     {
       "id": 4,
-      "name": "ခန္ဓသုတ်"
+      "name": "ခန္ဓသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/prayer.png"
     },
     {
       "id": 5,
-      "name": "မောရသုတ်"
+      "name": "မောရသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/prayer_3752926.png"
     },
     {
       "id": 6,
-      "name": "ဝဋ္ဋသုတ်"
+      "name": "ဝဋ္ဋသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/thailand.png"
     },
     {
       "id": 7,
-      "name": "ဓဇဂ္ဂသုတ်"
+      "name": "ဓဇဂ္ဂသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/vesak_16909806.png"
     },
     {
       "id": 8,
-      "name": "အာဋာနာဋိယသုတ်"
+      "name": "အာဋာနာဋိယသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/vesak_17451992.png"
     },
     {
       "id": 9,
-      "name": "အင်္ဂုလိမာလသုတ်"
+      "name": "အင်္ဂုလိမာလသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/wellness.png"
     },
     {
       "id": 10,
-      "name": "ဗောဇ္ဈင်္ဂသုတ်"
+      "name": "ဗောဇ္ဈင်္ဂသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/yoga.png"
     },
     {
       "id": 11,
-      "name": "ပုဗ္ဗဏှသုတ်"
+      "name": "ပုဗ္ဗဏှသုတ်",
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/yoga_10914032.png"
     }
   ]
 }
