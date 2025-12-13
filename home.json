@@ -5,61 +5,61 @@
     {
       "id": 1,
       "name": "နတ်ပင့်၊ နတ်ပို့ ဂါထာ",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/lotus_6193250.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/lotus_6193250.png"
     },{
       "id": 2,
       "name": "ပရိတ်နိဒါန်း",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/candle.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/candle.png"
     },
     {
       "id": 3,
       "name": "ပဌာန်းအကျဉ်း",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/harmony.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/harmony.png"
     },
     {
       "id": 4,
       "name": "ပဌာန်းအကျယ်",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/hands_16829832"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/hands_16829832"
     },
     {
       "id": 5,
       "name": "ဂုဏ်တော်များ",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/lotus_flower.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/lotus_flower.png"
     },
     {
       "id": 6,
       "name": "ဂုဏ်တော်ကွန်ချာ",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/nature.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/nature.png"
     },
     {
       "id": 7,
       "name": "ဘုရားရှိခိုး",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/meditation.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/meditation.png"
     },
     {
       "id": 8,
       "name": "မဟာသမယသုတ်",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/pray.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/pray.png"
     },
     {
       "id": 9,
       "name": "မေတ္တာပို့",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/pray1.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/pray1.png"
     },
     {
       "id": 10,
       "name": "အမျှဝေ",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/pray2.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/pray2.png"
     },
     {
       "id": 11,
       "name": "နေ့အလိုက်ပရိတ်ရွတ်ပုံ",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/pray3.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/pray3.png"
     },
     {
       "id": 12,
       "name": "သီလခံယူပုံ",
-      "image": "https://github.com/shwehnin/dhamma-json/blob/main/yoga_17552001.png"
+      "image": "https://raw.githubusercontent.com/shwehnin/dhamma-json/refs/heads/main/yoga_17552001.png"
     }
   ]
 }
