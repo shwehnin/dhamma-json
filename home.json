@@ -5,61 +5,61 @@
     {
       "id": 1,
       "name": "နတ်ပင့်၊ နတ်ပို့ ဂါထာ",
-      "image": "buddha"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/lotus_6193250.png"
     },{
       "id": 2,
       "name": "ပရိတ်နိဒါန်း",
-      "image": "buddha_arimit"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/candle.png"
     },
     {
       "id": 3,
       "name": "ပဌာန်းအကျဉ်း",
-      "image": "dahma"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/harmony.png"
     },
     {
       "id": 4,
       "name": "ပဌာန်းအကျယ်",
-      "image": "dhama"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/hands_16829832"
     },
     {
       "id": 5,
       "name": "ဂုဏ်တော်များ",
-      "image": "phaya"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/lotus_flower.png"
     },
     {
       "id": 6,
       "name": "ဂုဏ်တော်ကွန်ချာ",
-      "image": "buddha_two"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/nature.png"
     },
     {
       "id": 7,
       "name": "ဘုရားရှိခိုး",
-      "image": "buddha_three"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/meditation.png"
     },
     {
       "id": 8,
       "name": "မဟာသမယသုတ်",
-      "image": "buddha_four"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/pray.png"
     },
     {
       "id": 9,
       "name": "မေတ္တာပို့",
-      "image": "five"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/pray1.png"
     },
     {
       "id": 10,
       "name": "အမျှဝေ",
-      "image": "six"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/pray2.png"
     },
     {
       "id": 11,
       "name": "နေ့အလိုက်ပရိတ်ရွတ်ပုံ",
-      "image": "seven"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/pray3.png"
     },
     {
       "id": 12,
       "name": "သီလခံယူပုံ",
-      "image": "nine"
+      "image": "https://github.com/shwehnin/dhamma-json/blob/main/yoga_17552001.png"
     }
   ]
 }
